@@ -7,6 +7,7 @@ It provides a user friendly design to manage most of the MySql database administ
 Create and Manage database objects (Databse, Table, View etc..) with wellkown commands.
 </p>
 
+The application works with JBoss EAP 7
 
 <h3>Requirements</h3>
 1. Java (>= 1.7 recommended)
@@ -18,7 +19,7 @@ Create and Manage database objects (Databse, Table, View etc..) with wellkown co
 3. Database administration includes Database creation, updation and deletion.
 4. Object Management (tables, Views etc..)
 5. User friendly design
-6. Privilese management
+6. Privilege management
 7. Import and Export 
 8. Data management
 9. Query Builder and Sql Editor
